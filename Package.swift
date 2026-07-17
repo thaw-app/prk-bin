@@ -2,7 +2,7 @@
 import PackageDescription
 
 let binaryVersion = "0.0.3"
-let binaryChecksum = "cef721eb443b8d438ba314dd644843c1a62d6af92e3cf95f00bff18050dc81df"
+let binaryChecksum = "2127c6d8ee038e71865739d8d6f289eb6aa71014fcd52ca61a9cc8efc18704f4"
 
 let package = Package(
     name: "PlatformRuntimeKit",
