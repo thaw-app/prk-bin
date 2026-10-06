@@ -4,7 +4,7 @@ Prebuilt PlatformRuntimeKit for [Thaw](https://github.com/thaw-app/Thaw), the
 closed component that hides menu bar items on macOS 27. Thaw consumes it as a
 Swift package:
 
-    .package(url: "https://github.com/thaw-app/prk-bin", exact: "1.0.0")
+    .package(url: "https://github.com/thaw-app/prk-bin", exact: "1.1.0")
 
 ## License
 
