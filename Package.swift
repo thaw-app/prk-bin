@@ -1,8 +1,8 @@
 // swift-tools-version: 6.4
 import PackageDescription
 
-let binaryVersion = "1.2.10"
-let binaryChecksum = "ab2ba582e20b0fde20604563b953794bfb06b956f58e7cc4323d62083ad83f04"
+let binaryVersion = "1.2.11"
+let binaryChecksum = "2af21d30f986c2aef7b3dd24911ed96b3f3c60ac60b5b3e29495cc3b5a407b1b"
 
 let package = Package(
     name: "PlatformRuntimeKit",
